@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pxh-test
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# pixelhouse-test
+>>>>>>> 44cecd2f665b3aad79f86ffd7118662f33204ed3
