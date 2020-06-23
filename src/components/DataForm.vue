@@ -26,6 +26,7 @@
           ></v-text-field>
           <v-textarea
             outlined
+            color="rgb(240, 133, 25)"
             name="body"
             label="Body"
             v-model="input.body"
